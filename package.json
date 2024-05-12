@@ -1,0 +1,30 @@
+{
+  "name": "chancellor",
+  "version": "0.1.2",
+  "description": "Determine whether or not an event should occur based on a given chance.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidvoxel/node-chanceof.git"
+  },
+  "keywords": [
+    "chance",
+    "of",
+    "percent",
+    "percentage"
+  ],
+  "author": "Ashlynne Juniper",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/voidvoxel/node-chanceof/issues"
+  },
+  "homepage": "https://github.com/voidvoxel/node-chanceof#readme",
+  "dependencies": {
+    "@voidvoxel/parse-number": "^1.0.0",
+    "jest": "^29.7.0"
+  }
+}
