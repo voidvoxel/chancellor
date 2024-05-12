@@ -1,6 +1,6 @@
 {
   "name": "chancellor",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Determine whether or not an event should occur based on a given chance.",
   "main": "src/index.js",
   "type": "module",
